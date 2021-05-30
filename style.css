@@ -164,10 +164,9 @@ figure {
 
 
 nav {
-    background-color: #F2E5E5;
+    background-color: #dcdde2;
     background-image: url("IMG/FDE3.jpg");
     color: #4F4C4E;
-    background-attachment: fixed;
     background-size: 100%;
     width: 100%;
     position: relative;
@@ -286,12 +285,4 @@ font-size: 15px;
   height: 67px;
   display: flex;
   text-align: center;
-}
-
-@media screen and (max-width: 1280px)
-{
-  #nav
-  {
-  display: none;
-}
 }
