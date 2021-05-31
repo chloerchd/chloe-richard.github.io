@@ -267,6 +267,12 @@ footer {
   display: flex;
   flex-flow: row wrap;
   padding-right:50px;
+  border-left-width: 70px;
+  border-left-style: solid;
+  border-left-color: #E8E7E7;
+  border-right-width: 70px;
+  border-right-style: solid;
+  border-right-color: #E8E7E7;
 }
 
 figure {
